@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Oct 11 12:52:08 TRT 2024","Fri Oct 11 12:52:09 TRT 2024","1025","","PetStoreApiAutomation","","PetStoreApiAutomation","logoutUserInfo","logoutUserInfo()","Logout a user from the PetStore API"
+"passed","Fri Oct 11 12:52:11 TRT 2024","Fri Oct 11 12:52:12 TRT 2024","976","","PetStoreApiAutomation","","PetStoreApiAutomation","deleteUserInfo","deleteUserInfo()","Delete a user from the PetStore API"
+"passed","Fri Oct 11 12:52:10 TRT 2024","Fri Oct 11 12:52:11 TRT 2024","1381","","PetStoreApiAutomation","","PetStoreApiAutomation","getUserInfo","getUserInfo()","Retrieve user information from the PetStore API"
+"passed","Fri Oct 11 12:52:07 TRT 2024","Fri Oct 11 12:52:08 TRT 2024","1115","","PetStoreApiAutomation","","PetStoreApiAutomation","updateUserInfo","updateUserInfo()","Update user information in the PetStore API"
+"passed","Fri Oct 11 12:52:09 TRT 2024","Fri Oct 11 12:52:10 TRT 2024","1159","","PetStoreApiAutomation","","PetStoreApiAutomation","createUserInfo","createUserInfo()","Create a new user in the PetStore API"
+"passed","Fri Oct 11 12:52:01 TRT 2024","Fri Oct 11 12:52:06 TRT 2024","5387","","PetStoreApiAutomation","","PetStoreApiAutomation","loginUserInfo","loginUserInfo()","Login a user to the PetStore API"
